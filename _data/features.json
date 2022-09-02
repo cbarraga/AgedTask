@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Asesoría para su servicio",
+    "description": "Reciba asesrorìa personalizada para un mejor servicio",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "profesionales calificados",
+    "description": "Profesionales con manejo epecializado a adultos mayores.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Hitorias",
+    "description": "Nos gusta conocer a nuestros clientes y compartir con ellos historias",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
